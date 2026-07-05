@@ -9,7 +9,7 @@ $result = $conn->query($sql);
 <html>
 <head>
     <title>Kamathi's Kitchen</title>
-
+ 
     <style>
         body {
             font-family: Arial;
